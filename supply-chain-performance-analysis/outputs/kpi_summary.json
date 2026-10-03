@@ -1,0 +1,40 @@
+{
+  "orders": 7991,
+  "total_revenue": 82692726.6,
+  "total_profit": 30874657.72,
+  "avg_profit_margin_pct": 37.4,
+  "avg_delivery_days": 5.5,
+  "min_delivery_days": 1,
+  "max_delivery_days": 10,
+  "on_time_rate_pct": 50.5,
+  "late_orders": 3953,
+  "unprofitable_orders": 0,
+  "unprofitable_pct": 0.0,
+  "abc": {
+    "A": {
+      "products": 35,
+      "product_share_pct": 74.5,
+      "revenue_share_pct": 78.7
+    },
+    "B": {
+      "products": 8,
+      "product_share_pct": 17.0,
+      "revenue_share_pct": 14.7
+    },
+    "C": {
+      "products": 4,
+      "product_share_pct": 8.5,
+      "revenue_share_pct": 6.5
+    }
+  },
+  "best_warehouse": {
+    "code": "WARE-MKL1006",
+    "avg_delivery_days": 5.35,
+    "on_time_rate_pct": 53.4
+  },
+  "worst_warehouse": {
+    "code": "WARE-XYS1001",
+    "avg_delivery_days": 5.59,
+    "share_of_late_pct": 15.8
+  }
+}
